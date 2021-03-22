@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/liuzeyu2002/-liuzeyu2021-.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can look through my blog freely
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+hope you will have a good time
 
-### Markdown
+essay 1
+Fourscore and seven years ago, our fathers brought forth upon this continent a new nation, conceived in liberty and dedicated to the proposition that all men are created equal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now, we are engaged in a great civil war, testing whether that nation or any nation so conceived and so dedicated, can long endure. We are met on a great battlefield of that war. We have come to dedicate a portion of that field as a final resting-place for those who here gave their lives that that nation might live. It is altogether fitting and proper that we should do this.
 
-```markdown
-Syntax highlighted code block
+But, in a larger sense, we cannot dedicate, we cannot consecrate, we cannot hallow this ground. The brave men, living and dead, who struggled here, have consecrated it far above our poor power to add or detract. The world will little note nor long remember what we say here, but it can never forget what they did here. It is for us, the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced. It is rather for us to be here dedicated to the great task remaining before us---that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion; that we here highly resolve that these dead shall not have died in vain; that this nation, under God, shall have a new birth of freedom; and that government of the people, by the people, and for the people, shall not perish from the earth
 
-# Header 1
-## Header 2
-### Header 3
+essay 2
+If you could choose what kind of world to live in, what kind of world would you choose? If you could decide what would happen tomorrow, with what kinds of things would you fill it?
 
-- Bulleted
-- List
+If you had the power to decide what types of opportunities would come your way, what opportunities would you select? If you knew that your experiences would match your expectations, what would your expectations be?
 
-1. Numbered
-2. List
+In fact, you do have the power to choose your own way. You do have the ability to decide what kinds of events, experiences, opportunities and circumstances come your way.
 
-**Bold** and _Italic_ and `Code` text
+The world you experience is the world that your dreams, your thoughts, your expectations and your actions most closely resonate*. The world you see and live in is the world you most sincerely expect to see.
 
-[Link](url) and ![Image](src)
-```
+The universe is filled with endless possibilities, and those possibilities keep growing with every minute. The way you live determines which of those possibilities will come into your life.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuzeyu2002/-liuzeyu2021-.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+With your thoughts, your actions, your values, your dreams and expectations, you choose what kind of world you live in. The way you live is closely mirrored in the world you see.
